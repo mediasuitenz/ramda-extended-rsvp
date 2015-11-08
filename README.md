@@ -3,7 +3,7 @@
 This package does the following:
 
 1. Adds `R.rsvp` namespace to house RSVP specific helper functions
-2. Supports raw [RSVP.js](https://github.com/tildeio/rsvp.js/) as well as [Ember.RSVP](http://emberjs.com/api/classes/RSVP.html) (see [ember-cli-ramda-extended](https://github.com/mediasuitenz/ramda-extended) for Ember.js support)
+2. Supports [RSVP.js](https://github.com/tildeio/rsvp.js/) as well as [Ember.RSVP](http://emberjs.com/api/classes/RSVP.html) (see [ember-cli-ramda-extended](https://www.npmjs.com/package/ember-cli-ramda-extended) for Ember.js support)
 
 
 ## Installation (Browser)
@@ -25,12 +25,6 @@ This package does the following:
 
 ## See Also
 
-* [ramda-extended](https://github.com/mediasuitenz/ramda-extended)
-* [ramda-extended-rsvp](https://github.com/mediasuitenz/ramda-extended-rsvp)
-* [ember-cli-ramda-extended](https://github.com/mediasuitenz/ember-cli-ramda-extended)
-
-
-
-## Usage Notes
-
-After installing, the `R` namespace is globally available, including `R.rsvp` and `R.Ember`
+* ramda-extended ([npm](https://github.com/mediasuitenz/ramda-extended)/[github](https://github.com/mediasuitenz/ramda-extended))
+* ramda-extended-rsvp ([npm](https://github.com/mediasuitenz/ramda-extended-rsvp)/[github](https://github.com/mediasuitenz/ramda-extended-rsvp))
+* ember-cliramda-extended ([npm](https://www.npmjs.com/package/ember-cli-ramda-extended)/[github](https://github.com/mediasuitenz/ember-cli-ramda-extended))
