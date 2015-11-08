@@ -1,8 +1,8 @@
 {
   "name": "ramda-extended-rsvp",
-  "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Add RSVP support to ramda-extended",
+  "main": "./src/ramda-extended-rsvp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,23 @@
     "type": "git",
     "url": "git+https://github.com/mediasuitenz/ramda-extended-rsvp.git"
   },
-  "author": "Patrick Nilsen Walsh <patrick.nilsen.walsh@gmail.com>",
+  "keywords": [
+    "ramda",
+    "ramda-extended",
+    "ramda-extended-rsvp",
+    "rsvp"
+  ],
+  "author": {
+    "name": "Patrick Nilsen Walsh",
+    "email": "patrick.nilsen.walsh@gmail.com",
+    "url": "http://github.com/pnw"
+  },
+  "maintainers": [
+    {
+      "name": "Patrick Nilsen Walsh",
+      "email": "patrick.nilsen.walsh@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mediasuitenz/ramda-extended-rsvp/issues"
@@ -19,6 +35,7 @@
   "devDependencies": {
     "browserify": "^12.0.1",
     "ramda-extended": "^0.2.1",
+    "rsvp": "^3.1.0",
     "uglify-js": "^2.5.0",
     "xyz": "^0.5.0"
   }
