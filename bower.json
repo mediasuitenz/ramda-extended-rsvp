@@ -27,6 +27,6 @@
     "tests"
   ],
   "dependencies": {
-    "ramda-extended": "~0.2.1"
+    "ramda-extended": "~0.3.1"
   }
 }
