@@ -1,6 +1,6 @@
 {
   "name": "ramda-extended-rsvp",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Add RSVP support to ramda-extended",
   "main": "./src/ramda-extended-rsvp.js",
   "scripts": {
